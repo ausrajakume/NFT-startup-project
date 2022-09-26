@@ -1,8 +1,356 @@
-.lauching{
-
-  color: blueviolet;
-}
+@media screen and (min-width: 1024px) {
+  .program{
   
+  }
+
+
+  .lauching{
+
+    color: blueviolet;
+  }
+
+  #Freenft{
+    background-image: url(assets/background.svg);
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    align-self: flex-end;
+  }
+  .Services{
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  .vector{
+    width: 25px;
+    height: 25px;
+  }
+  
+  html{
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .program{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+  }
+  
+  .Boomerang{
+    display: flex;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+  }
+  
+  button{
+    border-color: coral;
+    width: 70px;
+    height: 50px;
+    border-radius: 12px;
+  }
+  
+  .paragraph{
+    display: flex;
+    align-self: center;
+  }
+  
+  .graphic{
+    display: flex;
+    justify-items: flex-end;
+  }
+  
+  .purpleman{
+    display: flex;
+    align-items: flex-end;
+    text-align: justify;
+      width: 290px;
+  }
+  
+  .woman{
+    text-align: justify;
+      width: 290px;
+  }
+  
+  .redman{
+    text-align: justify;
+      width: 290px;
+  }
+  
+  .greenwomen{
+    text-align: justify;
+      width: 290px;
+  }
+  
+  footer ,.container{
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .auctoins {
+  }
+  
+  .redmann, .womann, .greenwomenn, .purpleman{
+    background: grey;
+    border-radius: 25px;
+  padding: 5px;
+  
+  }
+  
+  h4{
+    display: flex;
+   text-align: center;
+   align-self: flex-end;
+  }
+  
+  .graphic{
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .Lauching{
+    margin-top: 50px;
+    display: flex;
+    align-self: flex-end;
+  }
+  
+  .an{
+    font-size: 50px;
+    display: flex;
+    align-self: center;
+  }
+  
+  .amm{
+    display: flex;
+    justify-content: flex-start;
+    align-self: flex-end;
+    font-size: 25px;
+  
+  }
+  
+  footer{
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .woooo{
+    display: flex;
+    align-self: flex-end;
+  }
+  
+  
+  
+  .wooo{
+    margin: 170px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .facebook{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-self: flex-end;
+  }
+  
+  .Twitter{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-self: flex-end;
+  }
+  
+  .Instagram{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-self: flex-end;
+  }
+  
+  table{
+    display: flex;
+    align-items: flex-end;
+  }
+  
+}
+  @media screen and (min-width: 768px) {
+    .program{
+      display: block;
+      justify-content: space-evenly;
+    }
+
+    
+    .navbar{
+      background-image: url(assets/8665130_bars_data_icon.png);
+    }
+
+    #Freenft{
+      background-image: url(assets/background.svg);
+      width: 100px;
+      height: 300px;
+      display: flex;
+      justify-content: flex-start;
+      align-self: flex-end;
+    }
+    .Services{
+      display: flex;
+      justify-content: center;
+    
+    }
+    
+    .vector{
+      width: 25px;
+      height: 25px;
+    }
+    
+    html{
+      font-family: 'Roboto', sans-serif;
+    }
+    
+    .program{
+      display: flex;
+      justify-content: space-between;
+      color: grey;
+    }
+    
+    .Boomerang{
+      display: flex;
+      align-items: center;
+      width: 50px;
+      height: 50px;
+    }
+    
+    button{
+      border-color: coral;
+      width: 70px;
+      height: 50px;
+      border-radius: 12px;
+    }
+    
+    .paragraph{
+      display: flex;
+      align-self: center;
+    }
+    
+    .graphic{
+      display: flex;
+      justify-items: centerS;
+    }
+    
+    .purpleman{
+      display: flex;
+      align-items: flex-end;
+      text-align: justify;
+        width: 290px;
+    }
+    
+    .woman{
+      text-align: justify;
+        width: 290px;
+    }
+    
+    .redman{
+      text-align: justify;
+        width: 290px;
+    }
+    
+    .greenwomen{
+      text-align: justify;
+        width: 290px;
+    }
+    
+  .container{
+      display: flex;
+      align-items: flex-end;
+    }
+    
+    .auctoins {
+    }
+    
+    .redman, .woman, .greenwomen {
+      display: flex;;
+    }
+    
+    h4{
+      display: flex;
+     text-align: center;
+     align-self: flex-end;
+    }
+    
+    .graphic{
+      display: flex;
+      align-items: flex-end;
+    }
+    
+    .Lauching{
+      margin-top: 50px;
+      display: flex;
+      align-self: flex-end;
+    }
+    
+    .an{
+      font-size: 20px;
+      display: flex;
+      align-self: center;
+    }
+    
+    .amm{
+      display: flex;
+      justify-content: flex-start;
+      align-self: flex-end;
+      font-size: 25px;
+    
+    }
+    
+    footer{
+      display: flex;
+      align-items: flex-end;
+    }
+    
+    .woooo{
+      display: flex;
+      align-self: flex-end;
+    }
+    
+    .purpleman{
+      background-color: gray;
+    }
+    
+    .wooo{
+      display: flex;
+      justify-content: flex-end;
+    }
+    
+    .facebook{
+      width: 50px;
+      height: 50px;
+      display: flex;
+      align-self: flex-end;
+    }
+    
+    .Twitter{
+      width: 50px;
+      height: 50px;
+      display: flex;
+      align-self: flex-end;
+    }
+    
+    .Instagram{
+      width: 50px;
+      height: 50px;
+      display: flex;
+      align-self: flex-end;
+    }
+    
+    table{
+      display: flex;
+      align-items: flex-end;
+    }
+
+
+  }
 
 #Freenft{
   background-image: url(assets/background.svg);
